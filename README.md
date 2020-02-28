@@ -1,5 +1,5 @@
 # mapBot
-Custom robot designed from scratch to follow the walls while avoiding obstacles simultaneously
+Custom robot designed from scratch to follow the walls while avoiding obstacles simultaneously. You can find the project video [here](https://drive.google.com/open?id=1DQKdXHaR3IjYNWqFbFiuEam3xJLN6lHB)
 
 ## Description
 Three packages are included.
